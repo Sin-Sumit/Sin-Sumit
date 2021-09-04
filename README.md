@@ -2,7 +2,7 @@
 
 - 👋 I'm Sumit Singh, graduated in Computer Science Engineering(2021) from [Pranveer Singh Institute of Technology](https://psit.ac.in/).
 - 👀 I’m passionate about Develpoment, Solving Problems, and Open Source. 
-- 🌱 I’m currently learning Machine Learning, JavaScript/TypeScript and Deep Diving into DSA.
+- 🌱 I’m currently learning Machine Learning, JavaScript/TypeScript, and Deep Diving into DSA.
 - 💞️ I’m looking to collaborate on Projects, Writing Research Work, and in Open Source Programs.
 - 📫 You're welcome to reach me at:<br><br>
   [![Twitter Badge](https://img.shields.io/badge/-SinghSumit7388-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/SinghSumit7388)](https://twitter.com/SinghSumit7388)
