@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Sumit's+Github+Profile..)](https://git.io/typing-svg)
+
+
 # Hi, I am Sumit! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 - 👋 I'm Sumit Singh, graduated in Computer Science Engineering(2021) from [Pranveer Singh Institute of Technology](https://psit.ac.in/).
