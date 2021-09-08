@@ -27,7 +27,7 @@
   <br>
 ### ✨ Achievements
 
-- Published a Research Paper with friends,named as [Pre-Processing and Partition of Voice for Semi-Voice Authentication](https://ieeexplore.ieee.org/document/8776849), in 2018 Fourth International Conference on Advances in Computing, Communication & Automation (ICACCA), with a point of improvement in existing authentication system.
+- Published a Research Paper with friends, named [Pre-Processing and Partition of Voice for Semi-Voice Authentication](https://ieeexplore.ieee.org/document/8776849), in the 2018 Fourth International Conference on Advances in Computing, Communication & Automation (ICACCA), with a point of improvement in the existing authentication system.
 - And I have a Bachelor's Degree in Computer Science and Engineering.
   <br>
 ### ⚡ Technologies
