@@ -13,7 +13,7 @@
 ## 🙋‍♂️ About Me
 
 - 👋 I'm Sumit Singh, graduated in Computer Science Engineering(2021) from [Pranveer Singh Institute of Technology](https://psit.ac.in/).
-- 👀 I’m passionate about Develpoment, Solving Problems, and Open Source. 
+- 👀 I’m passionate about Development, Solving Problems, and Open Source. 
 - 🌱 I’m currently learning Machine Learning, JavaScript/TypeScript, and Deep Diving into DSA.
 - 💞️ I’m looking to collaborate on Projects, Writing Research Work, and in Open Source Programs.
 - 📫 You're welcome to reach me  at: **sinsumit13@gmail.com**
