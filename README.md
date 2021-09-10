@@ -20,7 +20,7 @@
 
 ### My Experiences
 
-- Worked on a Python Virtual Website a project of MHRD(Ministry of Human Resources and Development), as a Developer using php, MySQL, JavaScript, HTML, CSS, aim was to provide theory + virtual content for the students to learn Python.
+- Worked on a Python Virtual Website a project of MHRD(Ministry of Human Resources and Development), as a FullStack Developer using php, MySQL, JavaScript, HTML, CSS, aim was to provide theory + virtual content for the students to learn Python.
 - Worked as a Frontend Developer in IEEE PSIT Student Branch.
 - I built a [IEEE PSIT Student Branch](http://fgethell.xyz/zeus/ieee/) website for the IEEE Region10 competition, it is not live and it is updated, It was my fastest work I ever did, almost complete this in 2 days, 1 night, all happens due to team work.
 - I also participated in Smart India Hackathon Software Edition, 2019 and worked on one of the problem mentioned by Ministry of Statistics and Programme Implementation, and worked as a frontend, using ML, React.js.
