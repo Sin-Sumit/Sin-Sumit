@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Sumit+Singh's+Github+Profile..)](https://git.io/typing-svg)
 <br>
   [![Twitter Badge](https://img.shields.io/badge/-SinghSumit7388-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/SinghSumit7388)](https://twitter.com/SinghSumit7388)
-  [![Linkedin Badge](https://img.shields.io/badge/-SumitSingh-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-singh-1252b0186/)](https://www.linkedin.com/in/sumit-singh-1252b0186/)
+  [![Linkedin Badge](https://img.shields.io/badge/-SumitSingh-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-singh-1252b0186/)](https://www.linkedin.com/in/sin-sumit)
   [![Gmail Badge](https://img.shields.io/badge/-sinsumit13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinsumit13@gmail@gmail.com)](mailto:sinsumit13@gmail@gmail.com)
   <br>
   <br> 
